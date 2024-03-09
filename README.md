@@ -3,7 +3,7 @@
 Welcome to my Frontend Mentor Challenges Repository! Here, I document my journey of solving various frontend challenges from Frontend Mentor. This repository serves as a showcase of my practical work and progress in honing my frontend development skills.
 
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/frontend-mentor-challenges.svg)](https://github.com/your-username/frontend-mentor-challenges/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/frontend-mentor-challenges.svg)]([https://github.com/your-username/frontend-mentor-challenges/stargazers](https://github.com/Alpha-Mintamir/Frontend-Mentor-Challenges-))
 
 ## Table of Contents
 
