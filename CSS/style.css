@@ -1,0 +1,45 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body{
+    text-align: center;
+    font-family: 'outfit';
+}
+
+.mobile-conatiner {
+  width: 375px;
+  background-color: hsl(212, 45%, 89%);
+ 
+  padding: 4%;
+}
+
+.title {
+  font-weight: 700;
+  font-size:1.4cqmax
+}
+
+.description {
+  font-weight: 400;
+  font-size: 15px;
+  
+}
+
+.mobile-conatiner img {
+  max-width: 100%;
+  border-radius: 5%;
+  
+}
+
+.inner-container{
+   
+    max-width: 100%;
+    padding: 4.7%;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5%;
+}
+
