@@ -2,7 +2,7 @@
 
 Welcome to my Frontend Mentor Challenges Repository! Here, I document my journey of solving various frontend challenges from Frontend Mentor. This repository serves as a showcase of my practical work and progress in honing my frontend development skills.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/frontend-mentor-challenges/blob/main/LICENSE)
+
 [![GitHub stars](https://img.shields.io/github/stars/your-username/frontend-mentor-challenges.svg)](https://github.com/your-username/frontend-mentor-challenges/stargazers)
 
 ## Table of Contents
@@ -52,7 +52,7 @@ I would like to express my gratitude to Frontend Mentor for providing these valu
 
 Let's connect! Feel free to reach out to me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue.svg?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/alpha-lencho-13b8281bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alpha Mintamir-blue.svg?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/alpha-lencho-13b8281bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue.svg?style=for-the-badge&logo=twitter)]([https://twitter.com/your-twitter-profile](https://twitter.com/Alphityy))
 [![Email](https://img.shields.io/badge/Email-YourEmail-red.svg?style=for-the-badge&logo=gmail)](mailto:Alphalenchoo@gmail.com)
 
