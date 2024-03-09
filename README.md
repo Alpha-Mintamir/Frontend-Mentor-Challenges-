@@ -52,8 +52,8 @@ I would like to express my gratitude to Frontend Mentor for providing these valu
 
 Let's connect! Feel free to reach out to me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alpha-Lencho-blue.svg?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/alpha-lencho-13b8281bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![Twitter](https://img.shields.io/badge/Twitter-Alpha-Mintamir-blue.svg?style=for-the-badge&logo=twitter)]([https://twitter.com/your-twitter-profile](https://twitter.com/Alphityy))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AlphaLencho-blue.svg?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/alpha-lencho-13b8281bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Twitter](https://img.shields.io/badge/Twitter-AlphaMintamir-blue.svg?style=for-the-badge&logo=twitter)]([https://twitter.com/your-twitter-profile](https://twitter.com/Alphityy))
 [![Email](https://img.shields.io/badge/Email-Alphalenchoo@gmail.com-red.svg?style=for-the-badge&logo=gmail)](mailto:Alphalenchoo@gmail.com)
 
 Happy coding! 🚀
